@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="minume.studio" resolutions="1x" timestamp="1580394784498">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="minume.studio" resolutions="1x" timestamp="1580395832690">
   <folder name="fonts">
     <file name="barlowsemicondensed-extralight-webfont.woff" crc="3988029466"/>
     <file name="barlowsemicondensed-extralight-webfont.eot" crc="117913443"/>
@@ -20,28 +20,36 @@
     </file>
     <file name="img_5256.jpg" crc="84163095" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5258.jpg" crc="136455811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_5263.jpg" crc="4095747001" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5249.jpg" crc="4058714615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_5246.jpg" crc="396347697" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5247.jpg" crc="144841487" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5248.jpg" crc="451821507" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -54,45 +62,37 @@
     <file name="img_5244200x356.jpg" crc="464142869" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5256200x356.jpg" crc="390206609" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_5258200x356.jpg" crc="4066613072" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5263200x356.jpg" crc="3884503291" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_5246200x356.jpg" crc="4137475208" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5249200x356.jpg" crc="252899251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_5248200x356.jpg" crc="28164484" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5247200x356.jpg" crc="3993280511" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_5244280x498.jpg" crc="307627363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="nastaran.svg" crc="305967397" seo="true" ref="minumeabout">
@@ -119,12 +119,12 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3834371107" ref="index"/>
-    <file name="master_a-master.css" crc="4263789285" ref="minumeabout:index"/>
+    <file name="index.css" crc="91716191" ref="index"/>
+    <file name="master_a-master.css" crc="3876123010" ref="minumeabout:index"/>
     <file name="nomq_preview_master_a-master.css" crc="221107315" ref="minumeabout:index"/>
     <file name="minumeabout.css" crc="506238812" ref="minumeabout"/>
     <file name="nomq_minumeabout.css" crc="400263458" ref="minumeabout"/>
-    <file name="nomq_index.css" crc="3962887489" ref="index"/>
+    <file name="nomq_index.css" crc="4263243996" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:minumeabout"/>
@@ -142,6 +142,6 @@
     <file name="form_process.php" crc="3776570906" ref="minumeabout"/>
     <file name="form-u1536.php" crc="315189685" ref="minumeabout"/>
   </folder>
-  <file name="index.html" crc="340159904" seo="true" mt="1580394644052" redirect="true"/>
+  <file name="index.html" crc="3825224737" seo="true" mt="1580395697013" redirect="true"/>
   <file name="minumeabout.html" crc="373105270" seo="true" mt="1580394644052" redirect="true"/>
 </manifest>
