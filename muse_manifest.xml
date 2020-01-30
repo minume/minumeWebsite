@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="minume.studio" resolutions="1x" timestamp="1580395832690">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="minume.studio" resolutions="1x" timestamp="1580396640581">
   <folder name="fonts">
     <file name="barlowsemicondensed-extralight-webfont.woff" crc="3988029466"/>
     <file name="barlowsemicondensed-extralight-webfont.eot" crc="117913443"/>
@@ -119,10 +119,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="91716191" ref="index"/>
-    <file name="master_a-master.css" crc="3876123010" ref="minumeabout:index"/>
+    <file name="index.css" crc="4164421933" ref="index"/>
+    <file name="master_a-master.css" crc="44017164" ref="minumeabout:index"/>
     <file name="nomq_preview_master_a-master.css" crc="221107315" ref="minumeabout:index"/>
-    <file name="minumeabout.css" crc="506238812" ref="minumeabout"/>
+    <file name="minumeabout.css" crc="4100751640" ref="minumeabout"/>
     <file name="nomq_minumeabout.css" crc="400263458" ref="minumeabout"/>
     <file name="nomq_index.css" crc="4263243996" ref="index"/>
   </folder>
@@ -142,6 +142,6 @@
     <file name="form_process.php" crc="3776570906" ref="minumeabout"/>
     <file name="form-u1536.php" crc="315189685" ref="minumeabout"/>
   </folder>
-  <file name="index.html" crc="3825224737" seo="true" mt="1580395697013" redirect="true"/>
-  <file name="minumeabout.html" crc="373105270" seo="true" mt="1580394644052" redirect="true"/>
+  <file name="index.html" crc="112347243" seo="true" mt="1580396578629" redirect="true"/>
+  <file name="minumeabout.html" crc="487975836" seo="true" mt="1580396578629" redirect="true"/>
 </manifest>
