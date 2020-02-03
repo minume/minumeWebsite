@@ -2,74 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://minume.studio/index.html</loc>
-    <lastmod>2020-01-30</lastmod>
+    <lastmod>2020-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://minume.studio/images/img_5244.jpg</image:loc>
+      <image:caption>dark theme of saaz by minume studio.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5256.jpg</image:loc>
+      <image:caption>light theme of saaz by minume studio.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5258.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5263.jpg</image:loc>
+      <image:caption>saaz win page, a game by minume studio.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5249.jpg</image:loc>
+      <image:caption>select theme page in saaz, a game by minume studio.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5246.jpg</image:loc>
+      <image:caption>saaz menu page, a game by minume studio</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5247.jpg</image:loc>
+      <image:caption>saaz menu page, a game by minume studio</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5248.jpg</image:loc>
+      <image:caption>saaz menu page, a game by minume studio</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5244200x356.jpg</image:loc>
+      <image:caption>dark theme of saaz by minume studio.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5256200x356.jpg</image:loc>
+      <image:caption>light theme of saaz by minume studio.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5258200x356.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5263200x356.jpg</image:loc>
+      <image:caption>saaz win page, a game by minume studio.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5246200x356.jpg</image:loc>
+      <image:caption>saaz menu page, a game by minume studio</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5249200x356.jpg</image:loc>
+      <image:caption>select theme page in saaz, a game by minume studio.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5248200x356.jpg</image:loc>
+      <image:caption>saaz menu page, a game by minume studio</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5247200x356.jpg</image:loc>
+      <image:caption>saaz menu page, a game by minume studio</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/img_5244280x498.jpg</image:loc>
+      <image:caption>dark theme of saaz by minume studio.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>http://minume.studio/minumeabout.html</loc>
-    <lastmod>2020-01-30</lastmod>
+    <loc>http://minume.studio/about.html</loc>
+    <lastmod>2020-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://minume.studio/images/nastaran.svg</image:loc>
+      <image:caption>minume studio artsit, Nastaran Khanbabaie</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/farzad.svg</image:loc>
+      <image:caption>minume studio programmer, Farzad Taslimi</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://minume.studio/images/hanif.svg</image:loc>
+      <image:caption>minume studio designer, Mohamad Sadegh (Hanif) Maraie</image:caption>
     </image:image>
   </url>
   <url>

@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'minume.studio@gmail.com',
-		'to' => 'minume.studio@gmail.com'
+		'from' => 'info@minume.studio',
+		'to' => 'info@minume.studio,minume.studio@gmail.com'
 	),
 	'recaptcha2' => array(
 		'private_key' => '6LfUC9QUAAAAAHSoHKOrSRTARAesPoAu3L3BpFOz'
